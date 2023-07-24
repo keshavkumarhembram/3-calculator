@@ -21,9 +21,9 @@ In this article, we will learn about building a Calculator using HTML, CSS, and 
 
 ## Final Result
 
-[Live Site](https://keshavkumarhembram.github.io/2-2-digital-stopwatch-clock-timer/)
+[Live Site](https://keshavkumarhembram.github.io/3-calculator/)
 
-[Github Repo](https://github.com/keshavkumarhembram/2-2-digital-stopwatch-clock-timer)
+[Github Repo](https://github.com/keshavkumarhembram/3-calculator)
 
 
 ![Final Result](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5pz0i1cq5zah6ai8vzr1.png)
@@ -339,7 +339,7 @@ Array.from(keys).forEach((key) => {
 ```
 ## Conclusion
 
-It's a great project to learn javascript and eval() function. Handling error. It is also good for learning grid.
+It's a great project to learn javascript, eval() function, and handling error. It is also good for learning grid.
 
 There are some suggestions that I want to recommend for your project that you can do in your project. You can also change that in my repository. I will be happy to merge those changes.
 - adding the `backspace` key
